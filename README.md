@@ -133,7 +133,7 @@ Zukünftige Erweiterungen:
 
 ---
 
-## Autoren
+## Team
 
 Lena: Gesichtserkennung, Hautton-Erkennung, Plots
 Susanne: Scraper, EDA, Modell-Evaluation, Anwendung auf gescrapte Daten
